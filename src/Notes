@@ -1,0 +1,29 @@
+Steps:
+
+A. Declaring some variables say for
+
+1. playArea dimensions
+2. initial Position of Snake and Apple.
+3. scale of the Game(Snake and apple)
+4. timeDelay for the speed of snake
+
+B. For rendering the final Game
+
+1. take two images one for screen and one for apple (for later converting into pixelated view using "drawImage")
+2. Take a canvas element to paint the screen for "gameBoard" aka "PlayArea".
+3. A button for restarting the game.
+4. Another div for scoreBox.(for highest score get the highest score from localStorage)
+
+C. Functions Associated
+
+1. Checking if the game is over
+   CASE 1: If the snake collides with screen ("checkCollision()")
+   CASE 2: If the snake eats itself ("appleAte")
+
+2. Taking user Input for Navigation of Game ("changeDirection()")
+
+3. Binding the parent div to a function named "playHandler()" that will reset all the values to initial value
+
+4. A useEffect inside which the Snake's movement is converted into pixels and the square that snake passed is cleared
+
+5. A run game callback used inside "useInterval()" basically to create a new Snake and for checking the two GameOver Cases
