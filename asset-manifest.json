@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abhiA2/snake-game/static/css/main.ceeeb8bf.css",
-    "main.js": "/abhiA2/snake-game/static/js/main.e8a1d70a.js",
-    "static/js/787.f3cf611a.chunk.js": "/abhiA2/snake-game/static/js/787.f3cf611a.chunk.js",
-    "static/media/oldMonitor.png": "/abhiA2/snake-game/static/media/oldMonitor.52c8438b5a69200ef60a.png",
-    "index.html": "/abhiA2/snake-game/index.html",
-    "main.ceeeb8bf.css.map": "/abhiA2/snake-game/static/css/main.ceeeb8bf.css.map",
-    "main.e8a1d70a.js.map": "/abhiA2/snake-game/static/js/main.e8a1d70a.js.map",
-    "787.f3cf611a.chunk.js.map": "/abhiA2/snake-game/static/js/787.f3cf611a.chunk.js.map"
+    "main.css": "/static/css/main.ceeeb8bf.css",
+    "main.js": "/static/js/main.88d5c817.js",
+    "static/js/787.f3cf611a.chunk.js": "/static/js/787.f3cf611a.chunk.js",
+    "static/media/oldMonitor.png": "/static/media/oldMonitor.52c8438b5a69200ef60a.png",
+    "index.html": "/index.html",
+    "main.ceeeb8bf.css.map": "/static/css/main.ceeeb8bf.css.map",
+    "main.88d5c817.js.map": "/static/js/main.88d5c817.js.map",
+    "787.f3cf611a.chunk.js.map": "/static/js/787.f3cf611a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ceeeb8bf.css",
-    "static/js/main.e8a1d70a.js"
+    "static/js/main.88d5c817.js"
   ]
 }
